@@ -1,15 +1,15 @@
 <h2 align="center">
-    「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
+    「 𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩 」</h2>
 
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
+  <img src="https://telegra.ph/file/09773b9c5cfca4f63b31d.jpg">
 </p>
 </p>
  <h3></h3>
  <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[˹мꝛ ᴄʜᴧᴍᴘᴜ˼](https://t.me/TheChampu)
+[˹𝙉𝙖𝙮𝙧𝙖 ✗ 𝙍𝙤𝙗𝙤𝙩](https://t.me/shayarmusic_bot)
 <h3 align="center">
 <a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
 
