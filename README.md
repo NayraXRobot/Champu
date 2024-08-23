@@ -14,7 +14,7 @@
 <a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/shayarakhawab)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Shivanshu_deo)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-F5AD09?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://telegra.ph/%EA%9C%B1n%CE%B9%CE%BD%CE%B1i%D1%95n%CF%85-12-02)
@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://github.com/ChampuXD/ChampuMusic"><img src="https://img.shields.io/github/stars/ChampuXD/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/ChampuXD/ChampuMusic/network/members"> <img src="https://img.shields.io/github/forks/ChampuXD/ChampuMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/ChampuXD/ChampuMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/NayraXRobot/Champu/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
@@ -41,7 +41,7 @@
 
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
  
-[![MUSIC](https://img.shields.io/badge/-TheChampuBot-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/TheChampuBot)
+[![MUSIC](https://img.shields.io/badge/-TheChampuBot-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/shayarmusic_bot)
 [![MUSIC](https://img.shields.io/badge/TheKittyXD_Bot-%2307405e.svg?&style=for-the-badge&logo=TheKittyXD_Bot&logoColor)](https://t.me/TheKittyXD_Bot)
 [![MUSIC](https://img.shields.io/badge/itsWaifuBot-%2307405e.svg?&style=for-the-badge&logo=itsWaifuBot&logoColor)](https://t.me/itsWaifuBot)
 
@@ -73,7 +73,7 @@ sudo pip3 install -U pip
 curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 ```
 ```console
-git clone https://github.com/TheChampu/ChampuMusic &&  cd ChampuMusic
+git clone https://github.com/NayraXRobot/Champu &&  cd Champu
 ```
 ```console
 pip3 install -U -r requirements.txt
@@ -108,7 +108,7 @@ sudo pkill -9 python3
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
  
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ChampuXD/ChampuMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NayraXRobot/Champu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -124,11 +124,11 @@ sudo pkill -9 python3
 
 
 <h3 align="center">
-    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+    ─「 •─┼ᶦϻͣ|| 💖♡ ᴢɪᴅᴅɪ_ꜱʜᴀʏᴀʀ ♡💖 || 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheChampu"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/shayarakhawab"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -136,7 +136,7 @@ sudo pkill -9 python3
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheChampuStore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/AboutshayarAkhawab"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
